@@ -9,6 +9,6 @@
   * MPU6050 (consists of accelerometer and gyroscope)
   * Flex sensors (variable resistors that change resistance based on the bend of the sensor)
 
-**Result**
+## Result:
 
 <img src="https://github.com/Ank-G/Real-time-digital-modelling-using-robotic-glove/blob/main/Result.gif" width=40% height=20%>
